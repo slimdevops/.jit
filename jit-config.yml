@@ -2,5 +2,4 @@ aws:
 - account_id: '987792866785'
   regions:
   - us-east-1
-  - us-east-2
   type: org
